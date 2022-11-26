@@ -100,7 +100,7 @@ export default {
     },
     document() {
       // 新窗口打开
-      window.open("https://docs.cherish.chat/docs/")
+      window.open("https://docs.cherish.chat")
     },
     setting() {
       this.$router.push({

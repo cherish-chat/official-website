@@ -25,7 +25,7 @@
           </div>
           <div class='btn btn_2 cursor' @click="downloadFn">
             <img src="../assets/img/anzhuo_icon.png" alt="" class='icon'>
-            安卓下载
+            安卓测试版
           </div>
           <div class='btn btn_3 cursor' @click="downloadFn">
             <img src="../assets/img/agora_桌面端.svg" alt="" class='icon'>
@@ -228,7 +228,7 @@ export default {
 
 .banner .left .btn_2 {
   background: #33cc33;
-  font-size: 8px;
+  font-size: 6px;
   margin-right: 7px;
 }
 

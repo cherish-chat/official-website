@@ -96,7 +96,7 @@ export default {
       window.open("https://github.com/cherish-chat/xxim-server.git")
     },
     online() {
-      alert("未上架，敬请期待")
+      window.open("https://xxim.cherish.chat")
     },
     document() {
       // 新窗口打开

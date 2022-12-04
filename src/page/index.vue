@@ -6,7 +6,7 @@
       </div>
       <div class='flex'>
         <div class="text_1 cursor" @click="document">文档</div>
-        <!--        <div class="text_2 cursor" @click="teamwork">商业合作</div>-->
+        <div class="text_2 cursor" @click="online">在线体验</div>
         <div class="text_2 cursor" @click="github">Github</div>
       </div>
     </div>
@@ -25,7 +25,7 @@
           </div>
           <div class='btn btn_2 cursor' @click="downloadFn">
             <img src="../assets/img/anzhuo_icon.png" alt="" class='icon'>
-            安卓下载
+            安卓测试版
           </div>
           <div class='btn btn_3 cursor' @click="downloadFn">
             <img src="../assets/img/agora_桌面端.svg" alt="" class='icon'>
@@ -95,12 +95,12 @@ export default {
     github() {
       window.open("https://github.com/cherish-chat/xxim-server.git")
     },
-    teamwork() {
-      // jump to teamwork
+    online() {
+      window.open("https://xxim.cherish.chat")
     },
     document() {
       // 新窗口打开
-      window.open("https://docs.cherish.chat/docs/")
+      window.open("https://docs.cherish.chat")
     },
     setting() {
       this.$router.push({
@@ -228,12 +228,18 @@ export default {
 
 .banner .left .btn_2 {
   background: #33cc33;
-  font-size: 8px;
+  font-size: 6px;
   margin-right: 7px;
 }
 
 .banner .left .btn_3 {
   background: #42c8fa;
+  font-size: 8px;
+}
+
+.banner .left .btn_4 {
+  width: 206px;
+  background: #ff00f4;
   font-size: 8px;
 }
 

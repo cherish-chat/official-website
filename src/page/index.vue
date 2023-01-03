@@ -50,15 +50,15 @@
         </div>
       </div>
       <p>&nbsp;</p>
-      <div class='layer_1'>
-        <div class='text_3' name="teamwork">
-          商务合作
-        </div>
-        <div class='text_4'>
-          <p>邮箱：team@cherish.chat</p>
-          <p>手机号：+86 13141202335</p>
-        </div>
-      </div>
+<!--      <div class='layer_1'>-->
+<!--        <div class='text_3' name="teamwork">-->
+<!--          商务合作-->
+<!--        </div>-->
+<!--        <div class='text_4'>-->
+<!--          <p>邮箱：team@cherish.chat</p>-->
+<!--          <p>手机号：+86 13141202335</p>-->
+<!--        </div>-->
+<!--      </div>-->
       <div class='layer_5'>
         <div class='text_1'>违法和不良信息举报电话：13141202335 消费者维权/客户服务/青少年守护专线：13141202335 举报邮箱：report@cherish.chat</div>
         <div class='text_1'>营业执照：91110107MABT30HY6C 北京市石景山区阜石路165号院3号楼9层905-15</div>

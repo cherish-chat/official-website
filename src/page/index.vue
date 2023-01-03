@@ -45,9 +45,9 @@
         <div class='text_4'>
           <p>惺惺团队由一群热爱开源的程序员组成，我们致力于打造一个开源的社交平台，让每个人都可以搭建自己的服务器，掌握数据的所有权。</p>
         </div>
-        <div class="text_5">
-          <p>我们拥有技能golang、flutter、rust，接受定制化IM需求（🥺赏口饭吃吧）</p>
-        </div>
+<!--        <div class="text_5">-->
+<!--          <p>我们拥有技能golang、flutter、rust，接受定制化IM需求（🥺赏口饭吃吧）</p>-->
+<!--        </div>-->
       </div>
       <p>&nbsp;</p>
 <!--      <div class='layer_1'>-->
